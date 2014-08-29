@@ -1,2 +1,2 @@
-ocpu-test
-=========
+ocputest
+========

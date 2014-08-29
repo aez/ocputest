@@ -1,0 +1,8 @@
+Package: ocpu-test
+Title: OpenCPU integration test
+Version: 0.1
+Authors@R: "Andy Zeldis <andy@zeldisland.com> [aut, cre]"
+Description: Test of OpenCPU integration
+Depends: R (>= 3.1.0)
+License: MIT
+LazyData: true

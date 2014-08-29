@@ -1,3 +1,3 @@
 hello <- function(name="world") {
-  print(paste("Hello, ", name, "!", sep=''));
+  print(paste("Goodbye, ", name, "!", sep=''));
 }

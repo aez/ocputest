@@ -1,4 +1,4 @@
-Package: ocpu-test
+Package: ocpu_test
 Title: OpenCPU integration test
 Version: 0.1
 Authors@R: "Andy Zeldis <andy@zeldisland.com> [aut, cre]"
